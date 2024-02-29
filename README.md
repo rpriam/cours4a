@@ -1,7 +1,7 @@
 Exploitation et Traitement des Données (EN COURS) <br>
-- CM_1_2_3.pdf <br>
-- TD1.pdf TD2.pdf TD3.pdf TD4.pdf <br>
-- TP1.pdf TP2.pdf TP3.pdf TP4.pdf  <br>
+- [CM_1_2_3.pdf](https://github.com/rpriam/cours4a/blob/main/AnalyseDesDonnees_CM_1_2_3.pdf.zip) <br>
+- TD1_corr.pdf TD2_corr.pdf TD3_corr.pdf TD4_corr.pdf <br>
+- TP1.ipynb TP2.ipynb TP3.ipynb TP4.ipynb  <br>
 - data1 <br>
 
 Python avancé (EN COURS) <br>
