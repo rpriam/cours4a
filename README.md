@@ -14,4 +14,6 @@ Optimisation et graphes (A VENIR) <br>
 CM TP1 TP2 TP3
 
 Travaux pratiques en langage C pdf (FINI) <br>
-sujet1.pdf sujet2.pdf sujet3.pdf (voir site du professeur responsable du module) <br>
+- voir site du professeur du module <br>
+- (sujet1.pdf sujet2.pdf sujet3.pdf)
+- 
