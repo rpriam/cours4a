@@ -1,1 +1,2 @@
 
+Numpy,  Pandas, Tableau, Plotly, SciPy, Seaborn, Open_AI, Text_Data & Python Cheat Sheets.pdf
