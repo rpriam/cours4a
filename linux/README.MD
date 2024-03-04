@@ -1,4 +1,4 @@
-Introduction Linux (A VENIR) <br>
+Introduction Linux <br>
 - TP.pdf (1 heure), fichiers sur le répertoire partagé
 - Installation d'une machine virtuelle pour OS Ubuntu [.pdf](https://github.com/rpriam/cours4a/blob/main/linux/Installation_machine_virtuelle_linux.pdf)
 - Référence machine virtuelle Oracle VM VirtualBox
