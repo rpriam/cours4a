@@ -9,7 +9,10 @@ Python avancé (EN COURS) <br>
 - [Projets.pdf](https://github.com/rpriam/cours4a/blob/main/projets_python.pdf.zip) & [memos](https://github.com/rpriam/cours4a/tree/main/memopython) <br>
 
 Introduction Linux (A VENIR) <br>
-TP.pdf (1 heure)
+- TP.pdf (1 heure), fichiers sur répertoire partagé
+- Référence VirtualBox [.exe](https://download.virtualbox.org/virtualbox/7.0.14/VirtualBox-7.0.14-161095-Win.exe)
+             [.vdi](https://sourceforge.net/projects/osboxes/files/v/vb/55-U-u/23.04/64bit.7z/download)
+             [.pdf](https://github.com/rpriam/cours4a/blob/main/linux/Installation_machine_virtuelle_linux.pdf)
 
 Optimisation et graphes (A VENIR) <br>
 - voir site www du professeur du module <br>
