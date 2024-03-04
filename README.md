@@ -17,7 +17,7 @@ Introduction Linux (A VENIR) <br>
              [.vdi](https://sourceforge.net/projects/osboxes/files/v/vb/55-U-u/23.04/64bit.7z/download)
 - Microsoft Visual C++ Redistributable 2015, .., 2019, .. [.html](https://learn.microsoft.com/fr-fr/cpp/windows/latest-supported-vc-redist?view=msvc-170) 
                                             [.exe](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-- (Evite problèmes de disque en installation dualboot avec win11)
+- (VM évite problèmes disque en installation dualboot + win11)
 
 Optimisation et graphes (A VENIR) <br>
 - voir site www du professeur du module <br>
