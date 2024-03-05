@@ -9,7 +9,7 @@ Python avancé (EN COURS) <br>
 - [Projets.pdf](https://github.com/rpriam/cours4a/blob/main/projets_python.pdf.zip) & [memos](https://github.com/rpriam/cours4a/tree/main/memopython) <br>
 
 Introduction Linux (A VENIR) <br>
-- TP.pdf (1 heure), fichiers sur le répertoire partagé
+- [TP.pdf](https://github.com/rpriam/cours4a/raw/main/linux/tp_linux.pdf.zip) (1 heure), cf. répertoire partagé
 - Installation d'une machine virtuelle pour OS Ubuntu [.pdf](https://github.com/rpriam/cours4a/blob/main/linux/Installation_machine_virtuelle_linux.pdf)
 - Référence machine virtuelle Oracle VM VirtualBox
              [.html](https://www.virtualbox.org/) 
