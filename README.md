@@ -17,7 +17,7 @@ Travaux pratiques en langage C pdf (FINI) <br>
 - voir site www du professeur du module <br>
 - (sujet1.pdf sujet2.pdf sujet3.pdf)
 
-introduction Linux (FINI) <br>
+Introduction Linux (FINI) <br>
 - [TP.pdf](https://github.com/rpriam/cours4a/raw/main/linux/tp_linux.pdf.zip) [dataexo.tar.gz](https://github.com/rpriam/cours4a/raw/main/linux/dataexo.tar.gz) (1 heure), cf. répertoire partagé
 - Installation d'une machine virtuelle pour OS Ubuntu [.pdf](https://github.com/rpriam/cours4a/blob/main/linux/Installation_machine_virtuelle_linux.pdf)
 - Référence machine virtuelle Oracle VM VirtualBox
@@ -27,5 +27,3 @@ introduction Linux (FINI) <br>
 - Microsoft Visual C++ Redistributable 2015, .., 2019, .. [.html](https://learn.microsoft.com/fr-fr/cpp/windows/latest-supported-vc-redist?view=msvc-170) 
                                             [.exe](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 - (VM évite problèmes disque en installation dualboot + win11)
-
-
