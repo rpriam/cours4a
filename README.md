@@ -5,7 +5,7 @@ Exploitation et Traitement des Données (EN COURS) <br>
 - [data1.csv](https://github.com/rpriam/cours4a/blob/main/data_tp1.csv) data2 data3 data4 <br>
 
 Python avancé (EN COURS) <br>
-- [CM_1_2.pdf](https://github.com/rpriam/cours4a/blob/main/Introduction_python.pdf.zip) <br>
+- [CM_1_2.pdf](https://github.com/rpriam/cours4a/blob/main/Introduction_python.pdf.zip) [CM_3.pdf](https://github.com/rpriam/cours4a/raw/main/Introduction_python_3.pdf.zip) <br>
 - [Projets.pdf](https://github.com/rpriam/cours4a/blob/main/projets_python.pdf.zip) & [memos](https://github.com/rpriam/cours4a/tree/main/memopython) <br>
 
 Optimisation et graphes (A VENIR) <br>
