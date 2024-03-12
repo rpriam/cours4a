@@ -1,5 +1,5 @@
 Exploitation et Traitement des Données (EN COURS) <br>
-- [CM_1_2_3.pdf](https://github.com/rpriam/cours4a/blob/main/AnalyseDesDonnees_CM_1_2_3.pdf.zip) CM_4 [.pdf](AnalyseDesDonnees_4.pdf) [.ppt](AnalyseDesDonnees_4.ppt) <br>
+- [CM_1_2_3.pdf](https://github.com/rpriam/cours4a/blob/main/AnalyseDesDonnees_CM_1_2_3.pdf.zip) CM_4 [.pdf/ppt](AnalyseDesDonnees_CM_4.zip) <br>
 - [TD1_corr.pdf](https://github.com/rpriam/cours4a/blob/main/TD1_AD_correction.pdf.zip) [TD2_corr.pdf](https://github.com/rpriam/cours4a/blob/main/TD2_AD_correction.pdf.zip) TD3_corr.pdf TD4_corr.pdf <br>
 - [TP1.ipynb](https://github.com/rpriam/cours4a/blob/main/TP1_AD_correction.ipynb.zip) TP2.ipynb TP3.ipynb TP4.ipynb  <br>
 - [data1.csv](https://github.com/rpriam/cours4a/blob/main/data_tp1.csv) data2 data3 data4 <br>
