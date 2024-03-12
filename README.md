@@ -15,7 +15,7 @@ Optimisation et graphes (A VENIR) <br>
 
 Travaux pratiques en langage C pdf (FINI) <br>
 - voir site www du professeur du module <br>
-- (sujet1.pdf sujet2.pdf sujet3.pdf)
+  - (sujet1.pdf sujet2.pdf sujet3.pdf)
 
 Introduction Linux (FINI) <br>
 - [TP.pdf](https://github.com/rpriam/cours4a/raw/main/linux/tp_linux.pdf.zip) [dataexo.tar.gz](https://github.com/rpriam/cours4a/raw/main/linux/dataexo.tar.gz) (1 heure), cf. répertoire partagé
