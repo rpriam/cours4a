@@ -7,6 +7,7 @@ Exploitation et Traitement des Données (EN COURS) <br>
 Python avancé (EN COURS) <br>
 - [CM_1_2.pdf](https://github.com/rpriam/cours4a/blob/main/Introduction_python.pdf.zip) [CM_3.pdf](https://github.com/rpriam/cours4a/raw/main/Introduction_python_3.pdf.zip) <br>
 - [Projets.pdf](https://github.com/rpriam/cours4a/blob/main/projets_python.pdf.zip) & [memos](https://github.com/rpriam/cours4a/tree/main/memopython) <br>
+- TP1 TP2 TP3
 
 Optimisation et graphes (A VENIR) <br>
 - voir site www du professeur du module <br>
