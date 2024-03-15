@@ -10,12 +10,12 @@ Python avancé (EN COURS) <br>
 - TP1 TP2 TP3
 
 Optimisation et graphes (A VENIR) <br>
-- voir site www du professeur du module <br>
+- voir site www de l'enseignant du module <br>
 - CM <br>
 - TP1 TP2 TP3
 
 Travaux pratiques en langage C pdf (FINI) <br>
-- voir site www du professeur du module <br>
+- voir site www de l'enseignant du module <br>
   - (sujet1.pdf sujet2.pdf sujet3.pdf)
 
 Introduction Linux (FINI) <br>
