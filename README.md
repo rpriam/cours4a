@@ -3,6 +3,8 @@ Exploitation et Traitement des Données (EN COURS) <br>
 - [TD1_corr.pdf](https://github.com/rpriam/cours4a/blob/main/TD1_AD_correction.pdf.zip) [TD2_corr.pdf](https://github.com/rpriam/cours4a/blob/main/TD2_AD_correction.pdf.zip) [TD3_corr.pdf](https://github.com/rpriam/cours4a/blob/main/TD3_AD_correction.pdf.zip)  TD4_corr.pdf <br>
 - [TP1.ipynb](https://github.com/rpriam/cours4a/blob/main/TP1_AD_correction.ipynb.zip) TP2.ipynb TP3.ipynb TP4.ipynb  <br>
 - [data1.csv](https://github.com/rpriam/cours4a/blob/main/data_tp1.csv) data2 data3 data4 <br>
+- Compléments <br>
+    - mémos [(en)](https://github.com/rpriam/cours4a/blob/main/memostat/cheatsheet_statistics.pdf) 
 
 Python avancé (EN COURS) <br>
 - [CM_1_2.pdf](https://github.com/rpriam/cours4a/blob/main/Introduction_python.pdf.zip) [CM_3.pdf](https://github.com/rpriam/cours4a/raw/main/Introduction_python_3.pdf.zip) <br>
