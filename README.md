@@ -13,8 +13,9 @@ Python avancé (EN COURS) <br>
 
 Optimisation et graphes (A VENIR) <br>
 - voir site www de l'enseignant du module <br>
-- CM <br>
-- TP1 TP2 TP3
+- Cours et TP pour suite sur heuristiques
+    - CM1.pdf CM2.pdf <br>
+    - TP1.ipynb TP2.ipynb TP3.ipynb
 
 Travaux pratiques en langage C pdf (FINI) <br>
 - voir site www de l'enseignant du module <br>
