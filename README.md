@@ -2,14 +2,14 @@ Exploitation et Traitement des Données (EN COURS) <br>
 - [CM_1_2_3.pdf](https://github.com/rpriam/cours4a/blob/main/AnalyseDesDonnees_CM_1_2_3.pdf.zip) [CM_4 .pdf/ppt](AnalyseDesDonnees_CM_4.zip) <br>
 - [TD1_corr.pdf](https://github.com/rpriam/cours4a/blob/main/TD1_AD_correction.pdf.zip) [TD2_corr.pdf](https://github.com/rpriam/cours4a/blob/main/TD2_AD_correction.pdf.zip) [TD3_corr.pdf](https://github.com/rpriam/cours4a/blob/main/TD3_AD_correction.pdf.zip)  TD4_corr.pdf <br>
 - [TP1.ipynb](https://github.com/rpriam/cours4a/blob/main/TP1_AD_correction.ipynb.zip) TP2.ipynb TP3.ipynb TP4.ipynb  <br>
-- [data1.csv](https://github.com/rpriam/cours4a/blob/main/data_tp1.csv) data2 data3 data4 <br>
+- [data1.csv](https://github.com/rpriam/cours4a/blob/main/data_tp1.csv) [data2.csv](https://github.com/rpriam/cours4a/raw/main/data_tp2_bis.csv) data3 data4 <br>
 - Compléments <br>
     - mémos [(en)](https://github.com/rpriam/cours4a/blob/main/memostat/cheatsheet_statistics.pdf) 
 
 Python avancé (EN COURS) <br>
 - [CM_1_2.pdf](https://github.com/rpriam/cours4a/blob/main/Introduction_python.pdf.zip) [CM_3.pdf](https://github.com/rpriam/cours4a/raw/main/Introduction_python_3.pdf.zip) <br>
 - [Projets.pdf](https://github.com/rpriam/cours4a/blob/main/projets_python.pdf.zip) & [memos](https://github.com/rpriam/cours4a/tree/main/memopython) <br>
-- [TP1](https://github.com/rpriam/cours4a/raw/main/TP1_PPLI.zip) [TP2](https://github.com/rpriam/cours4a/raw/main/data_tp2_bis.csv) TP3
+- [TP1](https://github.com/rpriam/cours4a/raw/main/TP1_PPLI.zip) [TP2] TP3
 
 Optimisation et graphes (A VENIR) <br>
 - voir site www de l'enseignant du module <br>
