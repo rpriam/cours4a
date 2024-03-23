@@ -7,7 +7,7 @@ Exploitation et Traitement des Données (EN COURS) <br>
     - mémos [(en)](https://github.com/rpriam/cours4a/blob/main/memostat/cheatsheet_statistics.pdf) 
 
 Python avancé (EN COURS) <br>
-- [CM_1_2.pdf](https://github.com/rpriam/cours4a/blob/main/Introduction_python.pdf.zip) [CM_3.pdf](https://github.com/rpriam/cours4a/raw/main/Introduction_python_3.pdf.zip) <br>
+- [CM_1_2.pdf](https://github.com/rpriam/cours4a/blob/main/Introduction_python.pdf.zip) [CM_3.pdf](https://github.com/rpriam/cours4a/raw/main/Introduction_python_3.pdf.zip) [CM_4.pdf](https://github.com/rpriam/cours4a/raw/main/Introduction_python_4.pdf.zip) <br>
 - [Projets.pdf](https://github.com/rpriam/cours4a/blob/main/projets_python.pdf.zip) & [memos](https://github.com/rpriam/cours4a/tree/main/memopython) <br>
 - [TP1](https://github.com/rpriam/cours4a/raw/main/TP1_PPLI.zip) TP2 TP3
 
