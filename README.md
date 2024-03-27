@@ -15,7 +15,7 @@ Python avancé (EN COURS) <br>
 
 Optimisation et graphes (A VENIR) <br>
 - voir site www de l'enseignant du module <br>
-- Cours et TP pour suite sur heuristiques
+- Cours et TP pour suite sur (méta)heuristiques
     - CM1.pdf CM2.pdf <br>
     - TP1.ipynb TP2.ipynb TP3.ipynb
 
