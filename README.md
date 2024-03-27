@@ -9,7 +9,7 @@ Exploitation et Traitement des Données (EN COURS) <br>
 Python avancé (EN COURS) <br>
 - [CM_1_2.pdf](https://github.com/rpriam/cours4a/blob/main/Introduction_python.pdf.zip) [CM_3.pdf](https://github.com/rpriam/cours4a/raw/main/Introduction_python_3.pdf.zip) [CM_4.pdf](https://github.com/rpriam/cours4a/raw/main/Introduction_python_4.pdf.zip) <br>
 - [Sujets des projets Python.pdf](https://github.com/rpriam/cours4a/blob/main/projets_python.pdf.zip) <br>
-- [Présentation des projets.pdf](https://github.com/rpriam/cours4a/raw/main/projets_python_finalisation.pdf.zip)
+- <code style="color : cyan">[Présentation des projets.pdf](https://github.com/rpriam/cours4a/raw/main/projets_python_finalisation.pdf.zip)</code>
 - [TP1](https://github.com/rpriam/cours4a/raw/main/TP1_PPLI.zip) TP2 TP3
 - Complément: memos [en](https://github.com/rpriam/cours4a/tree/main/memopython)
 
