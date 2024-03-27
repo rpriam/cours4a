@@ -11,7 +11,7 @@ Python avancé (EN COURS) <br>
 - [Sujets des projets Python.pdf](https://github.com/rpriam/cours4a/blob/main/projets_python.pdf.zip) <br>
 - [Présentation des projets.pdf](https://github.com/rpriam/cours4a/raw/main/projets_python_finalisation.pdf.zip)
 - [TP1](https://github.com/rpriam/cours4a/raw/main/TP1_PPLI.zip) TP2 TP3
-- Complément: [memos](https://github.com/rpriam/cours4a/tree/main/memopython)
+- Complément: [memos.pdf](https://github.com/rpriam/cours4a/tree/main/memopython)
 
 Optimisation et graphes (A VENIR) <br>
 - voir site www de l'enseignant du module <br>
