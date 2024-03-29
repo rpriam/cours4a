@@ -13,7 +13,7 @@ Python avancé (EN COURS) <br>
 - [TP1](https://github.com/rpriam/cours4a/raw/main/TP1_PPLI.zip) [TP2](https://github.com/rpriam/cours4a/raw/main/TP2_PPLI.zip) TP3
 - Complément:
     - memos [en](https://github.com/rpriam/cours4a/tree/main/memopython)
-    - tkinter [fr](https://github.com/rpriam/cours4a/blob/main/memopython/documentation_tkinter.pdf)
+    - <code style="color : cyan">tkinter [fr](https://github.com/rpriam/cours4a/blob/main/memopython/documentation_tkinter.pdf)</code>
 
 Optimisation et graphes (A VENIR) <br>
 - voir site www de l'enseignant du module <br>
