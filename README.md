@@ -36,3 +36,15 @@ Introduction Linux (FINI) <br>
 - Microsoft Visual C++ Redistributable 2015, .., 2019, .. [.html](https://learn.microsoft.com/fr-fr/cpp/windows/latest-supported-vc-redist?view=msvc-170) 
                                             [.exe](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 - (VM évite problèmes disque en installation dualboot + win11)
+
+Forum de discussion pour les cours (NOUVEAU!)<br>
+- Pour l'ensemble des cours des modules, les étudiants sont invités à:
+    - créer un compte github (anonyme) si ce n'est pas déjà fait, et bien sans les noms et prénoms
+    - communiquer le pseudo par mail afin de vous autoriser l'accès au nouveau répertoire des cours
+    - accéder à tous les supports de cours mis à disposition, ainsi que les fichiers complémentaires
+    - consulter le forum de discussion qui est disponible pour poser toutes les questions relatives
+      -  pour ces cours, et tps et tds
+      -  pour les contenu de ces cours
+      -  pour les références relatives
+      -  etc.
+
