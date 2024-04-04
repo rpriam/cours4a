@@ -1,4 +1,4 @@
-*Forum de discussion pour les cours (NOUVEAU!) :*<br>
+*Forum de discussion pour les cours  :*<br>
 
 Pour l'ensemble des cours des modules, tous les étudiants 4a des différents modules sont invités à:
 - créer un compte github (anonyme) si ce n'est pas déjà fait, et bien sans les noms et prénoms
