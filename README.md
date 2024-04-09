@@ -17,11 +17,13 @@ Python avancé (EN COURS) <br>
     - <code style="color : cyan">livre [fr](https://github.com/rpriam/cours4a/blob/main/memopython/apprendre_python3_5.pdf) [fr](https://github.com/rpriam/cours4a/blob/main/memopython/cours_python.pdf) </code>
     - <code style="color : cyan">tkinter [fr](https://github.com/rpriam/cours4a/blob/main/memopython/documentation_tkinter.pdf)  [fr](https://github.com/rpriam/cours4a/blob/main/memopython/les_bases_d_un_interface_graphique_avec_tkinter.pdf)</code>
 
-Optimisation et graphes (A VENIR) <br>
+Optimisation et graphes (EN COURS) <br>
 - voir site www de l'enseignant du module <br>
 - Cours et TP pour suite sur (méta)heuristiques
-    - CM1.pdf CM2.pdf <br>
+    - [CM1.pdf](https://github.com/rpriam/cours4a/raw/main/OptimizationMetaHeuristique_CM_1.zip) CM2.pdf <br>
     - (TP1.ipynb TP2.ipynb TP3.ipynb, non enseigné)
+    - Complément:
+        - 
 
 Travaux pratiques en langage C pdf (FINI) <br>
 - voir site www de l'enseignant du module <br>
