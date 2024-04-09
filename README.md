@@ -23,7 +23,8 @@ Optimisation et graphes (EN COURS) <br>
     - [CM1.pdf](https://github.com/rpriam/cours4a/raw/main/OptimizationMetaHeuristique_CM_1.zip) CM2.pdf <br>
     - (TP1.ipynb TP2.ipynb TP3.ipynb, non enseigné)
     - Complément:
-        - 
+        - [animation_algoclassique](https://github.com/rpriam/cours4a/raw/main/metaheuristiques/illustration_algorithmes_classique.7z)
+        - [animation_algogenetic](https://github.com/rpriam/cours4a/raw/main/metaheuristiques/illustration_algorithmes_genetique.7z)
 
 Travaux pratiques en langage C pdf (FINI) <br>
 - voir site www de l'enseignant du module <br>
