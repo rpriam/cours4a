@@ -5,7 +5,8 @@ Exploitation et Traitement des Données (EN COURS) <br>
 - [data1.csv](https://github.com/rpriam/cours4a/blob/main/data_tp1.csv) [data2.csv](https://github.com/rpriam/cours4a/raw/main/data_tp2_bis.csv) [data3.csv](https://github.com/rpriam/cours4a/blob/main/data_tp3.csv) [data_tp4_partie1.csv](https://github.com/rpriam/cours4a/raw/main/data_tp4_partie1.csv) <br>
 - Compléments <br>
     - mémos [(en)](https://github.com/rpriam/cours4a/blob/main/memostat/cheatsheet_statistics.pdf)
-    - acp [interpretation.pdf](https://github.com/rpriam/cours4a/blob/main/memostat/Exemple_interpret_ACP_MChavent.pdf) [TD4.ipynb](https://github.com/rpriam/cours4a/blob/main/TD4_AD.ipynb.zip) [données](https://github.com/rpriam/cours4a/raw/main/dataedt/)
+    - acp td [interpretation.pdf](https://github.com/rpriam/cours4a/blob/main/memostat/Exemple_interpret_ACP_MChavent.pdf) [TD4.ipynb](https://github.com/rpriam/cours4a/blob/main/TD4_AD.ipynb.zip) [données](https://github.com/rpriam/cours4a/raw/main/dataedt/)
+    - acp tp [exemple python](https://eric.univ-lyon2.fr/ricco/tanagra/fichiers/fr_Tanagra_ACP_Python.pdf)
 
 Python avancé (EN COURS) <br>
 - [CM_1_2.pdf](https://github.com/rpriam/cours4a/blob/main/Introduction_python.pdf.zip) [CM_3.pdf](https://github.com/rpriam/cours4a/raw/main/Introduction_python_3.pdf.zip) [CM_4.pdf](https://github.com/rpriam/cours4a/raw/main/Introduction_python_4.pdf.zip) <br>
