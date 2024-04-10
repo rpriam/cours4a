@@ -6,7 +6,7 @@ Exploitation et Traitement des Données (EN COURS) <br>
 - Compléments <br>
     - mémos [(en)](https://github.com/rpriam/cours4a/blob/main/memostat/cheatsheet_statistics.pdf)
     - acp (1) [interpretation.pdf](https://github.com/rpriam/cours4a/blob/main/memostat/Exemple_interpret_ACP_MChavent.pdf) [TD4.ipynb](https://github.com/rpriam/cours4a/blob/main/TD4_AD.ipynb.zip) [données](https://github.com/rpriam/cours4a/raw/main/dataedt/)
-    - acp (2) exemple [python.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/fr_Tanagra_ACP_Python.pdf), [1.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/example_td1_cor.pdf) [2.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/example_td2_cor.pdf) [3.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/example_td3_cor.pdf) [4.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/example_td4_cor.pdf) [5.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/example_td5_cor.pdf)
+    - acp (2) [python.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/fr_Tanagra_ACP_Python.pdf), [1.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/example_td1_cor.pdf) [2.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/example_td2_cor.pdf) [3.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/example_td3_cor.pdf) [4.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/example_td4_cor.pdf) [5.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/example_td5_cor.pdf)
     - 
 
 Python avancé (EN COURS) <br>
