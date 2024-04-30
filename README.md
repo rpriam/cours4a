@@ -9,7 +9,7 @@ Exploitation et Traitement des Données (EN COURS) <br>
     - acp (2) [python.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/fr_Tanagra_ACP_Python.pdf), [1.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/example_td1_cor.pdf) [2.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/example_td2_cor.pdf) [3.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/example_td3_cor.pdf) [4.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/example_td4_cor.pdf) [5.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/example_td5_cor.pdf)
 - <code style="color : cyan">Projets </code> <br>
     - [enonces_sujets.pdf](https://github.com/rpriam/cours4a/raw/main/projets_edt_sujets.pdf.zip) [datasets.zip](https://github.com/rpriam/cours4a/raw/main/projets_edt_datasets.zip)
-    - compléments [code_test.ipynb](https://github.com/rpriam/cours4a/raw/main/projets_edt_code_test_dataset.ipynb.zip) [code_test.pdf](https://github.com/rpriam/cours4a/commit/749f434ddb92a5738c8216f0c39c3e191cc6323d)
+    - compléments [code_test.ipynb](https://github.com/rpriam/cours4a/raw/main/projets_edt_code_test_dataset.ipynb.zip) [code_test.pdf](https://github.com/rpriam/cours4a/projets_edt_code_test_dataset.pdf.zip)
     - références 1.html 2.html 3.html
 
 Python avancé (EN COURS) <br>
