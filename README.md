@@ -3,7 +3,7 @@ Exploitation et Traitement des Données (EN COURS) <br>
 - [TD1_corr.pdf](https://github.com/rpriam/cours4a/blob/main/TD1_AD_correction.pdf.zip) [TD2_corr.pdf](https://github.com/rpriam/cours4a/blob/main/TD2_AD_correction.pdf.zip) [TD3_corr.pdf](https://github.com/rpriam/cours4a/blob/main/TD3_AD_correction.pdf.zip) [TD4_corr.pdf](https://github.com/rpriam/cours4a/blob/main/TD4_AD_correction.pdf.zip) <br>
 - [TP1_corr.ipynb](https://github.com/rpriam/cours4a/blob/main/TP1_AD_correction.ipynb.zip) [TP2_corr.ipynb](https://github.com/rpriam/cours4a/blob/main/TP2_AD_correction.ipynb.zip)  [TP3_corr.ipynb](https://github.com/rpriam/cours4a/blob/main/TP3_AD_correction.ipynb.zip) [TP4_corr.ipynb](https://github.com/rpriam/cours4a/blob/main/TP4_AD_correction.ipynb.zip) <br>
 - [data1.csv](https://github.com/rpriam/cours4a/blob/main/data_tp1.csv) [data2.csv](https://github.com/rpriam/cours4a/raw/main/data_tp2_bis.csv) [data3.csv](https://github.com/rpriam/cours4a/blob/main/data_tp3.csv) [data_tp4_partie1.csv](https://github.com/rpriam/cours4a/raw/main/data_tp4_partie1.csv) <br>
-- Compléments <br>
+- Complément documentations<br>
     - mémos [(en)](https://github.com/rpriam/cours4a/blob/main/memostat/cheatsheet_statistics.pdf)
     - acp (1) [interpretation.pdf](https://github.com/rpriam/cours4a/blob/main/memostat/Exemple_interpret_ACP_MChavent.pdf) [TD4.ipynb](https://github.com/rpriam/cours4a/blob/main/TD4_AD.ipynb.zip) [données](https://github.com/rpriam/cours4a/raw/main/dataedt/)
     - acp (2) [python.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/fr_Tanagra_ACP_Python.pdf), [1.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/example_td1_cor.pdf) [2.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/example_td2_cor.pdf) [3.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/example_td3_cor.pdf) [4.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/example_td4_cor.pdf) [5.pdf](https://github.com/rpriam/cours4a/blob/main/dataedt/example_td5_cor.pdf)
@@ -17,7 +17,7 @@ Python avancé (EN COURS) <br>
 - [Sujets des projets Python.pdf](https://github.com/rpriam/cours4a/blob/main/projets_python.pdf.zip) <br>
 - <code style="color : cyan">[Présentation des projets.pdf](https://github.com/rpriam/cours4a/raw/main/projets_python_finalisation.pdf.zip)</code> <code style="color : red">[horaires.pdf](https://github.com/rpriam/cours4a/raw/main/projets_python_presentation.pdf.zip)</code>
 - [TP1.ipynb](https://github.com/rpriam/cours4a/raw/main/TP1_PPLI.zip) [TP2.ipynb](https://github.com/rpriam/cours4a/raw/main/TP2_PPLI.zip) [TP3.ipynb](https://github.com/rpriam/cours4a/raw/main/TP3_PPLI.zip) [TP3_exo5.ipynb](https://github.com/rpriam/cours4a/raw/main/TP3_PPLI_exo5.ipynb.7z)
-- Complément:
+- Complément documentations:
     - memos [en](https://github.com/rpriam/cours4a/tree/main/memopython)
     - <code style="color : cyan">livre [fr](https://github.com/rpriam/cours4a/blob/main/memopython/apprendre_python3_5.pdf) [fr](https://github.com/rpriam/cours4a/blob/main/memopython/cours_python.pdf) </code>
     - <code style="color : cyan">tkinter [fr](https://github.com/rpriam/cours4a/blob/main/memopython/documentation_tkinter.pdf)  [fr](https://github.com/rpriam/cours4a/blob/main/memopython/les_bases_d_un_interface_graphique_avec_tkinter.pdf)</code>
