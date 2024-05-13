@@ -12,6 +12,14 @@ Exploitation et Traitement des Données (EN COURS) <br>
     - compléments code_test [.ipynb](https://github.com/rpriam/cours4a/raw/main/projets_edt_code_test_dataset.ipynb.zip) [.pdf](https://github.com/rpriam/cours4a/raw/main/projets_edt_code_test_dataset.pdf.zip) [moduledt.py](https://github.com/rpriam/cours4a/raw/main/projets_edt_code_test_dataset.medt.zip)
     - références 1.html 2.html 3.html
 
+Optimisation et graphes (EN COURS) <br>
+- voir site www de l'enseignant du module <br>
+- Cours et TP pour suite sur (méta)heuristiques
+    - [CM_1.pdf](https://github.com/rpriam/cours4a/raw/main/OptimizationMetaHeuristique_CM_1.zip) CM_2.pdf <br>
+    - Complément:
+        - [animation_algoclassique](https://github.com/rpriam/cours4a/raw/main/metaheuristiques/illustration_algorithmes_classique.7z)
+        - [animation_algogenetic](https://github.com/rpriam/cours4a/raw/main/metaheuristiques/illustration_algorithmes_genetique.7z)
+
 Python avancé (FINI) <br>
 - [CM_1_2.pdf](https://github.com/rpriam/cours4a/blob/main/Introduction_python.pdf.zip) [CM_3.pdf](https://github.com/rpriam/cours4a/raw/main/Introduction_python_3.pdf.zip) [CM_4.pdf](https://github.com/rpriam/cours4a/raw/main/Introduction_python_4.pdf.zip) <br>
 - [Sujets des projets Python.pdf](https://github.com/rpriam/cours4a/blob/main/projets_python.pdf.zip) <br>
@@ -21,14 +29,6 @@ Python avancé (FINI) <br>
     - memos [en](https://github.com/rpriam/cours4a/tree/main/memopython)
     - <code style="color : cyan">livre [fr](https://github.com/rpriam/cours4a/blob/main/memopython/apprendre_python3_5.pdf) [fr](https://github.com/rpriam/cours4a/blob/main/memopython/cours_python.pdf) </code>
     - <code style="color : cyan">tkinter [fr](https://github.com/rpriam/cours4a/blob/main/memopython/documentation_tkinter.pdf)  [fr](https://github.com/rpriam/cours4a/blob/main/memopython/les_bases_d_un_interface_graphique_avec_tkinter.pdf)</code>
-
-Optimisation et graphes (EN COURS) <br>
-- voir site www de l'enseignant du module <br>
-- Cours et TP pour suite sur (méta)heuristiques
-    - [CM_1.pdf](https://github.com/rpriam/cours4a/raw/main/OptimizationMetaHeuristique_CM_1.zip) CM_2.pdf <br>
-    - Complément:
-        - [animation_algoclassique](https://github.com/rpriam/cours4a/raw/main/metaheuristiques/illustration_algorithmes_classique.7z)
-        - [animation_algogenetic](https://github.com/rpriam/cours4a/raw/main/metaheuristiques/illustration_algorithmes_genetique.7z)
 
 Travaux pratiques en langage C pdf (FINI) <br>
 - voir site www de l'enseignant du module <br>
