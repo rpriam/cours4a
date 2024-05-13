@@ -12,10 +12,10 @@ Exploitation et Traitement des Données (EN COURS) <br>
     - compléments code_test [.ipynb](https://github.com/rpriam/cours4a/raw/main/projets_edt_code_test_dataset.ipynb.zip) [.pdf](https://github.com/rpriam/cours4a/raw/main/projets_edt_code_test_dataset.pdf.zip) [moduledt.py](https://github.com/rpriam/cours4a/raw/main/projets_edt_code_test_dataset.medt.zip)
     - références 1.html 2.html 3.html
 
-Python avancé (EN COURS) <br>
+Python avancé (FINI) <br>
 - [CM_1_2.pdf](https://github.com/rpriam/cours4a/blob/main/Introduction_python.pdf.zip) [CM_3.pdf](https://github.com/rpriam/cours4a/raw/main/Introduction_python_3.pdf.zip) [CM_4.pdf](https://github.com/rpriam/cours4a/raw/main/Introduction_python_4.pdf.zip) <br>
 - [Sujets des projets Python.pdf](https://github.com/rpriam/cours4a/blob/main/projets_python.pdf.zip) <br>
-- <code style="color : cyan">[Présentation des projets.pdf](https://github.com/rpriam/cours4a/raw/main/projets_python_finalisation.pdf.zip)</code> <code style="color : red">[horaires.pdf](https://github.com/rpriam/cours4a/raw/main/projets_python_presentation.pdf.zip)</code>
+- <code style="color : cyan">[Présentation des projets.pdf](https://github.com/rpriam/cours4a/raw/main/projets_python_finalisation.pdf.zip)</code> 
 - [TP1.ipynb](https://github.com/rpriam/cours4a/raw/main/TP1_PPLI.zip) [TP2.ipynb](https://github.com/rpriam/cours4a/raw/main/TP2_PPLI.zip) [TP3.ipynb](https://github.com/rpriam/cours4a/raw/main/TP3_PPLI.zip) [TP3_exo5.ipynb](https://github.com/rpriam/cours4a/raw/main/TP3_PPLI_exo5.ipynb.7z)
 - Complément documentations:
     - memos [en](https://github.com/rpriam/cours4a/tree/main/memopython)
