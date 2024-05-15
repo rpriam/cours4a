@@ -11,7 +11,7 @@ Exploitation et Traitement des Données (EN COURS) <br>
     - [enonces_sujets.pdf](https://github.com/rpriam/cours4a/raw/main/projets_edt_sujets.pdf.zip) [datasets.zip](https://github.com/rpriam/cours4a/raw/main/projets_edt_datasets.zip) <code style="color : red">[complement_sujet.pdf](https://github.com/rpriam/cours4a/raw/main/projets_edt_complement.pdf.zip)</code>
     - compléments code_test [.ipynb](https://github.com/rpriam/cours4a/raw/main/projets_edt_code_test_dataset.ipynb.zip) [.pdf](https://github.com/rpriam/cours4a/raw/main/projets_edt_code_test_dataset.pdf.zip) [moduledt.py](https://github.com/rpriam/cours4a/raw/main/projets_edt_code_test_dataset.medt.zip)
     - références+ [pandas](https://pandas.pydata.org/docs/user_guide/indexing.html) [sklearn](https://scikit-learn.org/stable/auto_examples/index.html) [graphs](https://python-graph-gallery.com/) [seaborn](https://seaborn.pydata.org/examples/index.html) [fanalysis](https://github.com/OlivierGarciaDev/fanalysis/blob/master/doc/pca_tutorial.pdf)
-    - [barême provisoire indicatif non exhaustif](https://github.com/rpriam/cours4a/blob/main/projets_edt_bareme_provisoire.pdf.zip)
+    - <code style="color : red"> [barême provisoire indicatif non exhaustif](https://github.com/rpriam/cours4a/blob/main/projets_edt_bareme_provisoire.pdf.zip) </code>
 
 Optimisation et graphes (EN COURS) <br>
 - voir site www de l'enseignant du module <br>
