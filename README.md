@@ -19,6 +19,7 @@ Optimisation et graphes (EN COURS) <br>
     - Complément:
         - [animation_algoclassique](https://github.com/rpriam/cours4a/raw/main/metaheuristiques/illustration_algorithmes_classique.7z)
         - [animation_algogenetic](https://github.com/rpriam/cours4a/raw/main/metaheuristiques/illustration_algorithmes_genetique.7z)
+        - Jupyther Notebook .ipynb .ipynb
 
 Python avancé (FINI) <br>
 - [CM_1_2.pdf](https://github.com/rpriam/cours4a/blob/main/Introduction_python.pdf.zip) [CM_3.pdf](https://github.com/rpriam/cours4a/raw/main/Introduction_python_3.pdf.zip) [CM_4.pdf](https://github.com/rpriam/cours4a/raw/main/Introduction_python_4.pdf.zip) <br>
