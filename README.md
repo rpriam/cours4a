@@ -15,7 +15,7 @@ Exploitation et Traitement des Données (EN COURS) <br>
 Optimisation et graphes (EN COURS) <br>
 - voir site www de l'enseignant du module <br>
 - Cours et TP pour suite sur (méta)heuristiques
-    - [CM_1.pdf](https://github.com/rpriam/cours4a/raw/main/OptimizationMetaHeuristique_CM_1.zip) CM_2.pdf <br>
+    - [CM_1.pdf](https://github.com/rpriam/cours4a/raw/main/OptimizationMetaHeuristique_CM_1.zip) [CM_2.pdf](https://github.com/rpriam/cours4a/raw/main/OptimizationMetaHeuristique_CM_2.zip) <br>
     - Complément:
         - [animation_algoclassique](https://github.com/rpriam/cours4a/raw/main/metaheuristiques/illustration_algorithmes_classique.7z)
         - [animation_algogenetic](https://github.com/rpriam/cours4a/raw/main/metaheuristiques/illustration_algorithmes_genetique.7z)
