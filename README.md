@@ -14,7 +14,7 @@ Exploitation et Traitement des Données (EN COURS) <br>
     - <code style="color : red">[barême provisoire indicatif non exhaustif](https://github.com/rpriam/cours4a/blob/main/projets_edt_bareme_provisoire.pdf.zip)</code>
     - <code style="color : red">[finalisation et date de remise du projet](https://github.com/rpriam/cours4a/tree/main/projedt/)</code>
 
-Optimisation et graphes (EN COURS) <br>
+Optimisation et graphes (FINI) <br>
 - voir site www de l'enseignant du module <br>
 - Cours et TP pour suite sur (méta)heuristiques
     - [CM_1.pdf](https://github.com/rpriam/cours4a/raw/main/OptimizationMetaHeuristique_CM_1.zip) [CM_2.pdf](https://github.com/rpriam/cours4a/raw/main/OptimizationMetaHeuristique_CM_2.zip) <br>
